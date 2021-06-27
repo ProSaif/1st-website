@@ -1,0 +1,15 @@
+ h1 {
+   color: brown;
+ }
+
+ .box {
+   border: 5px solid green;
+   width: 50%;
+   height: 300px;
+   margin: 50px;
+   padding: 50px;
+   text-align: center;
+   color: blue;
+   border-radius: 20px;
+
+ }
