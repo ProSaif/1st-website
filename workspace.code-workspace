@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../git push by vs code"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Programming Hero - Restart (25-4-21)"
+	}
+}
