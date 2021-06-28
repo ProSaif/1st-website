@@ -1,19 +1,23 @@
- h1 {
-   color: brown;
- }
+body {
+  margin: 20git 0px;
+}
 
- .box {
-   border: 5px solid green;
-   width: 50%;
-   height: 300px;
-   margin: 50px;
-   padding: 50px;
-   text-align: center;
-   color: blue;
-   border-radius: 20px;
- }
+h1 {
+  color: brown;
+}
 
- #border {
-   background-color: black;
-   color: white;
- }
+.box {
+  border: 5px solid green;
+  width: 50%;
+  height: 300px;
+  margin: 50px;
+  padding: 50px;
+  text-align: center;
+  color: blue;
+  border-radius: 20px;
+}
+
+#border {
+  background-color: black;
+  color: white;
+}
